@@ -1,7 +1,5 @@
 import React from "react";
 import Hero from "../home/Hero.jsx";
-// import TrendingNow from "../home/TrendingNow.jsx";
-// import FeaturedCarousel from "../home/EditorsPicks.jsx";
 import Beauty from "../home/BeautyFeature.jsx";
 import  Fashion  from "../home/FashionFeature.jsx";
 import   InOut from "../home/InOutFeature.jsx";
